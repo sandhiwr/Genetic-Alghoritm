@@ -23,4 +23,9 @@ Langkah-langkah dari Algoritma Genetika adalah sebagai berikut:
 ## **Pseudocode Algoritma Genetika**
 ![Pseudocode](https://user-images.githubusercontent.com/49557695/121672831-76381400-cada-11eb-9641-a451b9c77559.png)
 
+## **Contoh**
+Untuk Traveling Salesman Problem :<br>
+1 : [Click Here!](https://github.com/sandhiwr/Genetic-Alghoritm/blob/main/GeneticAlgorithmTSP1_Sandhi%20Wijaya%20Rosga_06111840000031.ipynb)<br>
+2 : [Click Here!](https://github.com/sandhiwr/Genetic-Alghoritm/blob/main/GeneticAlgorithmTSP2_Sandhi%20Wijaya%20Rosga_06111840000031.ipynb)
+
 **Sekian dan Terimakasih** :+1:
