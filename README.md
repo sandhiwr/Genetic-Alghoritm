@@ -21,3 +21,6 @@ Langkah-langkah dari Algoritma Genetika adalah sebagai berikut:
 10. Ulangi langkah **5** - **9** sebanyak *N* kali (maksimum generasi)
 
 ## **Pseudocode Algoritma Genetika**
+https://github.com/sandhiwr/Genetic-Alghoritm/blob/main/Pseudocode.png
+
+**Sekian dan Terimakasih** :+1:
