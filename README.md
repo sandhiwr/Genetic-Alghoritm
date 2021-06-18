@@ -28,4 +28,7 @@ Untuk Traveling Salesman Problem :<br>
 1 : [Click Here!](https://github.com/sandhiwr/Genetic-Alghoritm/blob/main/GeneticAlgorithmTSP1_Sandhi%20Wijaya%20Rosga_06111840000031.ipynb)<br>
 2 : [Click Here!](https://github.com/sandhiwr/Genetic-Alghoritm/blob/main/GeneticAlgorithmTSP2_Sandhi%20Wijaya%20Rosga_06111840000031.ipynb)
 
+Untuk Clustering :<br>
+[Click Here!](https://github.com/sandhiwr/Genetic-Alghoritm/blob/main/Clustering.ipynb)
+
 **Sekian dan Terimakasih** :+1:
